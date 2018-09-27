@@ -148,7 +148,7 @@ module.exports = {
     "height": "86px",
     "marginTop": "75px",
     "borderRadius": "43px",
-    "backgroundColor": "#09ba07",
+    "backgroundColor": "#bbba24",
     "fontSize": "30px",
     "color": "#ffffff"
   }
@@ -174,7 +174,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 exports.default = {
   private: {
-    title: '示例页面'
+    title: '都是假的'
   },
   routeDetail: function routeDetail() {
     _system2.default.push({
